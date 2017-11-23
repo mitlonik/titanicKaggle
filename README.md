@@ -6,10 +6,13 @@
     
       $ python -mpip install matplotlib
     * Pandas
+    
         $ python -mpip install matplotlib
     * Pandas
+    
          $ pip install pandas
     * Scikit-image
+    
       $ pip install scikit-image
     * 
 ------------------------
