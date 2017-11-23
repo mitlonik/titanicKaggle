@@ -11,7 +11,7 @@
     * Pandas
     
          $ pip install pandas
-    * Scikit-image
+    * decorator, networkx, PyWavelets, scipy, olefile, pillow, scikit-image
     
       $ pip install scikit-image
     * 
