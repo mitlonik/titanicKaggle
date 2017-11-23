@@ -1,11 +1,11 @@
 # titanicKaggle
 Titanic: Machine Learning from Disaster
-* https://www.kaggle.com/c/titanic#frequently-asked-questions
-> for MAC run 
-    Matplotlob, Numpy, Cucler, Pyparsing, Pytz, Python_dateutil
+> https://www.kaggle.com/c/titanic#frequently-asked-questions
+* for MAC run 
+    **Matplotlob, Numpy, Cucler, Pyparsing, Pytz, Python_dateutil
     
         $ python -mpip install matplotlib
-    Pandas
+    * Pandas
         
         $ pip install pandas
         
