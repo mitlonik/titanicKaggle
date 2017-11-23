@@ -14,6 +14,17 @@
     * decorator, networkx, PyWavelets, scipy, olefile, pillow, scikit-image
     
       $ pip install scikit-image
-    * 
-------------------------
+    * scikit-learn
+    
+      $ pip install scikit-learn
+    
+    *
+    
+      $
+    *
+    
+      $
+    *
+    
+    ------------------------
 
