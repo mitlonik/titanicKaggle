@@ -3,6 +3,7 @@
 > https://www.kaggle.com/c/titanic#frequently-asked-questions
 * for MAC run 
     * Matplotlob, Numpy, Cucler, Pyparsing, Pytz, Python_dateutil
+    
       $ python -mpip install matplotlib
     * Pandas
         $ python -mpip install matplotlib
