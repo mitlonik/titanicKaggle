@@ -18,13 +18,20 @@
     
       $ pip install scikit-learn
     
-    *
+    * Seaborn
+    
+      $
+    * statsmodels
     
       $
     *
     
       $
     *
+    
+      *
+    $
+    
     
     ------------------------
 
