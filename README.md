@@ -6,8 +6,11 @@
     
         $ python -mpip install matplotlib
     * Pandas
-        
-        $ pip install pandas
-        
+    
+         $ pip install pandas
+    * Scikit-image
+    
+      $ pip install scikit-image
+    *
 ------------------------
 
