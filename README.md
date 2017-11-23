@@ -20,17 +20,20 @@
     
     * Seaborn
     
-      $
+      $ pip install seaborn
     * statsmodels
     
-      $
+      $ pip install statsmodels
+    * xgboost
+    
+      $ pip install xgboost
     *
     
       $
     *
     
-      *
-    $
+      $
+    *
     
     
     ------------------------
