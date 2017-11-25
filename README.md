@@ -27,9 +27,9 @@
     * xgboost
     
       $ pip install xgboost
-    *
+    * matplotlob
     
-      $
+      $ pip install -U matplotlib
     *
     
       $
