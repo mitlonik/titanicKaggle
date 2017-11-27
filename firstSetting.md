@@ -1,3 +1,4 @@
+> training
 * install GNU|Linux (example Ubuntu)
 * make "update" & "upgrade" system
 * install python ("sudo apt-get install python"). check version ("python --version" or "python -V")
@@ -23,3 +24,5 @@
 * pip install seaborn
 * pip install sklearn
 * 
+
+> execution
