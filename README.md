@@ -9,7 +9,7 @@
       $ git config --global user.email "username.user@example.com"
       $ git config --list
 
-* cloning stranger prject ("git clone https://github.com/mazurkin/titanic.git")
+* cloning stranger prject ("git clone https://github.com/mitlonik/titanicKaggle.git")
 * try run script "python titanic.py"
 
 * install need libraries:
