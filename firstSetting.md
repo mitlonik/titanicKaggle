@@ -12,5 +12,5 @@
 * try run script "python titanic.py"
 
 * install need libraries:
-**first install 'pip' ("sudo apt install python-pip")
+`first install 'pip' ("sudo apt install python-pip")
 
