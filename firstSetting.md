@@ -12,5 +12,14 @@
 * try run script "python titanic.py"
 
 * install need libraries:
-`first install 'pip' ("sudo apt install python-pip")
-
+* first install 'pip' ("sudo apt install python-pip")
+     
+      $ pip -V 
+* pip install pandas
+* pip install matplotlib
+* sudo apt install python-tk
+* pip install xgboost
+* pip install scipy
+* pip install seaborn
+* pip install sklearn
+* 
