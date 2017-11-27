@@ -19,10 +19,12 @@
 * pip install pandas
 * pip install matplotlib
 * sudo apt install python-tk
-* pip install xgboost
+* pip install xgboost (http://xgboost.readthedocs.io/en/latest/build.html)
 * pip install scipy
 * pip install seaborn
 * pip install sklearn
 * 
 
 > execution
+* go to directory project
+* python titanic.py
